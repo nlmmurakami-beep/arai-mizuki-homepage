@@ -1,1 +1,1 @@
-# arai-mizuki-homepage
+# mizuki-homepage
